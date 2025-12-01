@@ -54,4 +54,6 @@ Run the main application script:
 ```bash
 python3 app.py
 ```
-![Code gif](preview.gif)
+<p align="center">
+  <img src="preview.gif" alt="Code demo" width="700px" height="auto">
+</p>
