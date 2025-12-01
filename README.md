@@ -55,5 +55,5 @@ Run the main application script:
 python3 app.py
 ```
 <p align="center">
-  <img src="preview.gif" alt="Code demo" width="700px" height="auto">
+  <video src="demo.mp4" muted loop autoplay style="max-width: 100%;"></video>
 </p>
