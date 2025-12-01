@@ -52,7 +52,7 @@ A Python-based automated tool designed to calculate the profitability of freight
 Run the main application script:
 
 ```bash
-python3 app.py
+python3 auto_robot.py
 ```
 <p align="center">
   <img src="code_13s_optimized.gif" alt="Code demo" width="700px" height="auto">
