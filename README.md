@@ -53,3 +53,5 @@ Run the main application script:
 
 ```bash
 python3 app.py
+
+![Code gif](preview.gif)
