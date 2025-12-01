@@ -54,6 +54,3 @@ Run the main application script:
 ```bash
 python3 app.py
 ```
-<div align="center">
-  ![Podgląd Demo](code_13s_optimized.gif)
-</div>
