@@ -55,5 +55,5 @@ Run the main application script:
 python3 app.py
 ```
 <p align="center">
-  <video src="code.mp4" muted loop autoplay style="max-width: 100%;"></video>
+  <video src="code.mp4" loop autoplay style="max-width: 100%;"></video>
 </p>
