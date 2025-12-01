@@ -54,3 +54,6 @@ Run the main application script:
 ```bash
 python3 app.py
 ```
+<p align="center">
+  <img src="code_13s_optimized.gif" alt="Code demo" width="700px" height="auto">
+</p>
