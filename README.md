@@ -37,7 +37,7 @@ A Python-based automated tool designed to calculate the profitability of freight
 
 3.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r resources/requirements.txt
     ```
 
 4.  **Configure Environment Variables:**
@@ -55,5 +55,5 @@ Run the main application script:
 python3 auto_robot.py
 ```
 <p align="center">
-  <img src="code_13s_optimized.gif" alt="Code demo" width="700px" height="auto">
+  <img src="resources/code_13s_optimized.gif" alt="Code demo" width="700px" height="auto">
 </p>
